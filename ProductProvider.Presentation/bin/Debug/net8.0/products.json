@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "0a01489e-8be9-4629-b3e9-d43ddc128e1c",
+    "Name": "Iphone 16",
+    "Price": 13999.0,
+    "Category": {
+      "Id": null,
+      "CategoryName": "Elektronik"
+    }
+  },
+  {
+    "Id": "26be3a59-a3fc-456f-a0b2-97f7366efd12",
+    "Name": "tyrt121",
+    "Price": 211.0,
+    "Category": {
+      "Id": null,
+      "CategoryName": "cxvxc"
+    }
+  }
+]

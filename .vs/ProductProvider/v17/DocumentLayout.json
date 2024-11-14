@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Uppgifter_Objektorienterad_Analys_ Och_Design\\ProductProvider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3481DC50-2AD6-4A85-95AC-45EC7E74E3D6}|ProductProvider.Tests\\ProductProvider.Tests.csproj|c:\\projects\\uppgifter_objektorienterad_analys_ och_design\\productprovider\\productprovider.tests\\business_tests\\busines_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3481DC50-2AD6-4A85-95AC-45EC7E74E3D6}|ProductProvider.Tests\\ProductProvider.Tests.csproj|solutionrelative:productprovider.tests\\business_tests\\busines_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096F827-55DE-4C0E-A195-53A05601456E}|ProductProvider.Business\\ProductProvider.Business.csproj|c:\\projects\\uppgifter_objektorienterad_analys_ och_design\\productprovider\\productprovider.business\\services\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096F827-55DE-4C0E-A195-53A05601456E}|ProductProvider.Business\\ProductProvider.Business.csproj|solutionrelative:productprovider.business\\services\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096F827-55DE-4C0E-A195-53A05601456E}|ProductProvider.Business\\ProductProvider.Business.csproj|c:\\projects\\uppgifter_objektorienterad_analys_ och_design\\productprovider\\productprovider.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096F827-55DE-4C0E-A195-53A05601456E}|ProductProvider.Business\\ProductProvider.Business.csproj|solutionrelative:productprovider.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Uppgifter_Objektorienterad_Analys_ Och_Design\\ProductProvider\\ProductProvider.Business\\Services\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "ProductProvider.Business\\Services\\ProductValidator.cs",
+              "ToolTip": "C:\\Projects\\Uppgifter_Objektorienterad_Analys_ Och_Design\\ProductProvider\\ProductProvider.Business\\Services\\ProductValidator.cs",
+              "RelativeToolTip": "ProductProvider.Business\\Services\\ProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:04:58.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Projects\\Uppgifter_Objektorienterad_Analys_ Och_Design\\ProductProvider\\ProductProvider.Business\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductProvider.Business\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Projects\\Uppgifter_Objektorienterad_Analys_ Och_Design\\ProductProvider\\ProductProvider.Business\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductProvider.Business\\Services\\ProductService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:27:46.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Busines_Tests.cs",
+              "DocumentMoniker": "C:\\Projects\\Uppgifter_Objektorienterad_Analys_ Och_Design\\ProductProvider\\ProductProvider.Tests\\Business_Tests\\Busines_Tests.cs",
+              "RelativeDocumentMoniker": "ProductProvider.Tests\\Business_Tests\\Busines_Tests.cs",
+              "ToolTip": "C:\\Projects\\Uppgifter_Objektorienterad_Analys_ Och_Design\\ProductProvider\\ProductProvider.Tests\\Business_Tests\\Busines_Tests.cs",
+              "RelativeToolTip": "ProductProvider.Tests\\Business_Tests\\Busines_Tests.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAwwO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:44:56.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

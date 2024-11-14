@@ -1,0 +1,15 @@
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\bin\Debug\net8.0\ProductProvider.Data.deps.json
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\bin\Debug\net8.0\ProductProvider.Data.dll
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\bin\Debug\net8.0\ProductProvider.Data.pdb
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\bin\Debug\net8.0\ProductProvider.Domain.dll
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\bin\Debug\net8.0\ProductProvider.Domain.pdb
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\obj\Debug\net8.0\ProductProvider.Data.csproj.AssemblyReference.cache
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\obj\Debug\net8.0\ProductProvider.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\obj\Debug\net8.0\ProductProvider.Data.AssemblyInfoInputs.cache
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\obj\Debug\net8.0\ProductProvider.Data.AssemblyInfo.cs
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\obj\Debug\net8.0\ProductProvider.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\obj\Debug\net8.0\ProductP.082D93A8.Up2Date
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\obj\Debug\net8.0\ProductProvider.Data.dll
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\obj\Debug\net8.0\refint\ProductProvider.Data.dll
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\obj\Debug\net8.0\ProductProvider.Data.pdb
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Data\obj\Debug\net8.0\ref\ProductProvider.Data.dll

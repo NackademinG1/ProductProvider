@@ -1,0 +1,11 @@
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Domain\bin\Debug\net8.0\ProductProvider.Domain.deps.json
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Domain\bin\Debug\net8.0\ProductProvider.Domain.dll
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Domain\bin\Debug\net8.0\ProductProvider.Domain.pdb
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Domain\obj\Debug\net8.0\ProductProvider.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Domain\obj\Debug\net8.0\ProductProvider.Domain.AssemblyInfoInputs.cache
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Domain\obj\Debug\net8.0\ProductProvider.Domain.AssemblyInfo.cs
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Domain\obj\Debug\net8.0\ProductProvider.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Domain\obj\Debug\net8.0\ProductProvider.Domain.dll
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Domain\obj\Debug\net8.0\refint\ProductProvider.Domain.dll
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Domain\obj\Debug\net8.0\ProductProvider.Domain.pdb
+C:\Projects\Uppgifter_Objektorienterad_Analys_ Och_Design\ProductProvider\ProductProvider.Domain\obj\Debug\net8.0\ref\ProductProvider.Domain.dll
